@@ -1,0 +1,25 @@
+header .navbar{
+    background-color: transparent !important;
+}
+
+header * {
+    font-family: 'Roboto', 'Open Sans', 'Andika New Basic', 'Noto Sans JP', sans-serif;
+    font-size: 15px;
+    color: #fff8c1 !important;
+}
+
+header a:hover {
+    color: #22ce6f !important;
+}
+
+header a svg:hover path:last-child {
+    fill: #22ce6f ;
+}
+
+header {
+    background-color: #59886b;
+}
+
+header img {
+    height: 28px !important;
+}
